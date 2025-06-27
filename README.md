@@ -4,9 +4,9 @@
 A brief description of your project — what it does, why it matters, and the insights it offers.
 
 ## 🧰 Tools & Technologies
-- Tool 1 (e.g., Power BI)
-- Tool 2 (e.g., SQL, Excel)
-- Tool 3 (e.g., DAX, Python)
+- Tool 1 (Power BI)
+- Tool 2 (SQL, Excel)
+- Tool 3 (DAX, Python)
 
 ## 📂 Project Structure
 
